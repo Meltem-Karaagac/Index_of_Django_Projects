@@ -19,7 +19,7 @@
             <td><img src="./python.png" alt="react" height=130></td> 
         </tr>
         <tr>
-            <td>Django Weather App</td>
+            <td>Django Weather App </td>
             <td><a href= "https://github.com/Meltem-Karaagac/Django_my_weather_app" target="_blank">Repo details</a></td>
             <td><a href= "https://django-wheather-app.herokuapp.com/" target="_blank"> App Demo</a></td>
             <td><img src="python.png"alt="react" height=130></td> 
